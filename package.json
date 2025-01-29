@@ -1,0 +1,19 @@
+{
+  "name": "homework-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "parcel": "^2.13.3",
+    "parcel-transformer-hbs": "^1.0.4"
+  }
+}
